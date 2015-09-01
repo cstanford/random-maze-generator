@@ -2,6 +2,7 @@
 =======================
 
 Problem Description: 
+
 Name: Random Maze Generator
 This program will generate a random maze using two dimensions given by the user.
 Once the maze has been generated, the program will output which walls still
